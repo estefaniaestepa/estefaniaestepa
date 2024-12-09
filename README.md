@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-🌟 **Sobre mí**<br>
+# 💫 Sobre mí:
 ¡Hola! Soy **Estefanía**, una apasionada Desarrolladora en **Inteligencia Artificial**, **Ciencia de Datos** y **Full Stack Developer** desde España. 💻 Mi misión es aprender, innovar y dejar huella en cada proyecto que realizo. 🚀<br><br>
 
 ---
@@ -30,8 +28,9 @@
 ¿Estás buscando a alguien que combine habilidades técnicas, creatividad y dedicación?<br><br>
 
 📫 **Contáctame:** [estefaniaestepaalcon@gmail.com](mailto:estefaniaestepaalcon@gmail.com)<br>
-📌 **Ve mis proyectos en:** [GitHub](https://github.com/estefaniaestepa)<br>
-💼 **Conecta conmigo en:** [LinkedIn](https://www.linkedin.com/in/estefaniaestepa)<br>
+📌 **Ve mis proyectos en:** [GitHub](https://github.com/estefaniaestepa)  
+💼 **Conecta conmigo en:** [LinkedIn](https://www.linkedin.com/in/estefaniaestepa)
+
 
 
 
