@@ -1,5 +1,38 @@
 # 💫 About Me:
-🌟 About Me<br>¡Hola! Soy Estefanía, una Desarrolladora en Inteligencia Artificial, Ciencia de Datos y Full Stack Developer de España con una pasión insaciable por la tecnología y la innovación. Mi objetivo es superar expectativas, aprender continuamente y marcar la diferencia en cada proyecto que emprendo. 🚀<br><br>👩‍💻 ¿Qué puedo aportar?<br>🔍 Experiencia en IA y Ciencia de Datos: Desarrollo modelos inteligentes para resolver problemas complejos, desde análisis predictivo hasta sistemas de automatización avanzados.<br>🌐 Full Stack Expertise: Construyo aplicaciones sólidas y escalables usando tecnologías modernas como React, MongoDB, JavaScript y Python.<br>📊 Datos con Propósito: Especialista en transformar datos en decisiones estratégicas, aplicando técnicas de análisis avanzadas y visualizaciones impactantes.<br>🌟 Lo que me distingue<br>✨ Pasión por los retos: Me encanta trabajar en entornos dinámicos donde pueda aprender, innovar y crear soluciones disruptivas.<br>🤝 Enfoque colaborativo: Trabajo en equipo para impulsar resultados sobresalientes y garantizar el éxito de cada proyecto.<br>🎯 Compromiso con la excelencia: Siempre doy lo mejor para sobresalir y entregar resultados que superen las expectativas.<br>🏆 Objetivos Profesionales<br>Participar en proyectos que combinen tecnología e impacto social. 🌍<br>Especializarme aún más en frameworks avanzados y técnicas de Machine Learning.<br>Colaborar con equipos visionarios que compartan mi entusiasmo por la innovación.<br>🚀 ¡Vamos más allá juntos!<br>¿Estás buscando a alguien que combine habilidades técnicas, creatividad y dedicación?<br>📫 Contáctame: estefaniaestepaalcon@gmail.com<br>📌 Ve mis proyectos en: https://github.com/estefaniaestepa<br>💼 Conecta conmigo en: https://www.linkedin.com/in/estefaniaestepa
+
+🌟 **Sobre mí**<br>
+¡Hola! Soy **Estefanía**, una apasionada Desarrolladora en **Inteligencia Artificial**, **Ciencia de Datos** y **Full Stack Developer** desde España. 💻 Mi misión es aprender, innovar y dejar huella en cada proyecto que realizo. 🚀<br><br>
+
+---
+
+### 👩‍💻 **¿Qué puedo aportar?**<br>
+🔍 **Experiencia en IA y Ciencia de Datos:** Desarrollo modelos inteligentes para resolver problemas complejos, desde análisis predictivo hasta sistemas de automatización avanzados.<br>
+🌐 **Full Stack Expertise:** Construyo aplicaciones sólidas y escalables usando tecnologías modernas como **React**, **MongoDB**, **JavaScript** y **Python**.<br>
+📊 **Datos con Propósito:** Especialista en transformar datos en decisiones estratégicas, aplicando técnicas de análisis avanzadas y visualizaciones impactantes.<br><br>
+
+---
+
+### 🌟 **Lo que me distingue**<br>
+✨ **Pasión por los retos:** Me encanta trabajar en entornos dinámicos donde pueda aprender, innovar y crear soluciones disruptivas.<br>
+🤝 **Enfoque colaborativo:** Trabajo en equipo para impulsar resultados sobresalientes y garantizar el éxito de cada proyecto.<br>
+🎯 **Compromiso con la excelencia:** Siempre doy lo mejor para sobresalir y entregar resultados que superen las expectativas.<br><br>
+
+---
+
+### 🏆 **Objetivos Profesionales**<br>
+- Participar en proyectos que combinen tecnología e impacto social 🌍.<br>
+- Especializarme aún más en frameworks avanzados y técnicas de **Machine Learning**.<br>
+- Colaborar con equipos visionarios que compartan mi entusiasmo por la innovación.<br><br>
+
+---
+
+🚀 **¡Vamos más allá juntos!**<br>
+¿Estás buscando a alguien que combine habilidades técnicas, creatividad y dedicación?<br><br>
+
+📫 **Contáctame:** [estefaniaestepaalcon@gmail.com](mailto:estefaniaestepaalcon@gmail.com)<br>
+📌 **Ve mis proyectos en:** [GitHub](https://github.com/estefaniaestepa)<br>
+💼 **Conecta conmigo en:** [LinkedIn](https://www.linkedin.com/in/estefaniaestepa)<br>
+
 
 
 ## 🌐 Socials:
